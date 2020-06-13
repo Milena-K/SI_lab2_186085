@@ -18,6 +18,6 @@ C = 5
 [], [‘#’, 0, ’#’], [0, ‘#’, 0], [0, 0]
 
 ### Објаснување на напишаните unit tests 
-[Every statement]('SI_lab2_186085/Every Statement Method.pdf') и [Multiple Condition Method]("SI_lab2_186085/Multiple Condition Method.pdf").
+[Every statement](SI_lab2_186085/Every Statement Method.pdf) и [Multiple Condition Method]("SI_lab2_186085/Multiple Condition Method.pdf").
 За Every Statement, треба да се изберат вредности така што со тестовите секоја линија код ќе биде активирана.
 За Multiple Condition, треба да се изберат вредности така што со тестовите треба да се дадат сите можни комбинации на вистиносни вредности за условите, кои имаат логичка смисла да се извршат. 
